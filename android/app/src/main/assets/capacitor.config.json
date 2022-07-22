@@ -1,0 +1,8 @@
+{
+	"appId": "io.ionic.CovidTracker",
+	"appName": "CovidTracker",
+	"bundledWebRuntime": false,
+	"npmClient": "npm",
+	"webDir": "build",
+	"cordova": {}
+}
